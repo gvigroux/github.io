@@ -20,11 +20,11 @@ Utilisation
 Il est maintenant trés facile de créer un fonc d'écran dynamique:
 . Créer un équipement 
 . Configurer le nouvel équipement:
-	- Choix du mode (Météo/BING/Photos)
-	- périodicité du rafraichissement
-	- Modification des images (Redimensionnement, en PHP & en CSS)
+.. Choix du mode (Météo/BING/Photos)
+.. périodicité du rafraichissement
+.. Modification des images (Redimensionnement, en PHP & en CSS)
 . positionner ce nouvel équipement sur votre design
-	- par défaut, uniquement l'icone de rafraichissement sera visible. Il est toutefois possible de l'enlever en decochant la visibilité de la commande rafraichissement.
+.. par défaut, uniquement l'icone de rafraichissement sera visible. Il est toutefois possible de l'enlever en decochant la visibilité de la commande rafraichissement.
 	
 Modification des images
 ===
