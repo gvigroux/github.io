@@ -1,8 +1,6 @@
 Description 
 ===
-
-Plugin servant de base pour les plugins. Attention lors de l’utilisation
-à bien remplacer tous les templates par l’id de votre plugin.
+ok
 
 Création plugin partie 1 : l’arborescence 
 ===
